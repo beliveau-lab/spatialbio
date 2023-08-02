@@ -16,7 +16,7 @@ TODO: Lint,  README, SEO, Liquid isn't executable in frontmatter, some links are
 
 - [/_includes/head/custom.html](_includes/head/custom.html) - Stylesheet Headers (Bootstrap, etc.)
 - [/_includes/head/favicon.html](_includes/head/favicon.html) - Favicon Customization (assets)
-- /[_includes/svg/logo.svg](_includes/svg/logo.svg) - Logo Customization (assets)
+- [/_includes/svg/logo.svg](_includes/svg/logo.svg) - Logo Customization (assets)
 - [/_includes/footer.html](_includes/footer.html) - Footer Styling
 - [/_layouts/sblanding.html](_layouts/sblanding.html) - SpatialBio Layout
 - [/_layouts/sbpage.html](_layouts/sbpage.html) - SpatialBio Layout

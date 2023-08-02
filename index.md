@@ -32,7 +32,7 @@ jumbotron:
 carousel:
   active: https://api.coarchitects.com/wp-content/uploads/2022/08/COJ148_N2145_print.jpg
   images:
-    - src: /assets/images/general/SB23_Banner.png
+    # - src: /assets/images/general/SB23_Banner.png
     - src: https://facilities.uw.edu/blog/files/media/drumheller-bagley-hero.jpg
     - src: https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/8/10119/files/2020/12/Foege_Hall-1241.jpg
 data:

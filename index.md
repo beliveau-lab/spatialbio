@@ -32,7 +32,7 @@ jumbotron:
 carousel:
   active: https://api.coarchitects.com/wp-content/uploads/2022/08/COJ148_N2145_print.jpg
   images:
-    - src: spatialbio/assets/images/general/SB23_Banner.png
+    - src: /assets/images/general/SB23_Banner.png
     - src: https://facilities.uw.edu/blog/files/media/drumheller-bagley-hero.jpg
     - src: https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/8/10119/files/2020/12/Foege_Hall-1241.jpg
 data:
@@ -142,7 +142,7 @@ data:
 </div>
 <!-- <div class="col"></div> -->
 <div class="col-md-7 col-12 d-flex align-items-center justify-content-start" markdown="1">
-![Image](spatialbio/assets/images/general/SB23_Banner.png)
+![Image](/assets/images/general/SB23_Banner.png)
 </div>
 </div>
 
@@ -170,20 +170,20 @@ data:
 <div class="container text-center mb-3">
 <div class="row align-items-center">
 <div class="col-md-3 col-6" markdown="1">
-![Image](spatialbio/assets/images/sponsors/Alpenglow.png)
+![Image](/assets/images/sponsors/Alpenglow.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
-![Image](spatialbio/assets/images/sponsors/Barcode.svg)
+![Image](/assets/images/sponsors/Barcode.svg)
 </div>
 <div class="col-md-3 col-6" markdown="1">
-![Image](spatialbio/assets/images/sponsors/Nikon.jpg)
+![Image](/assets/images/sponsors/Nikon.jpg)
 </div>
 
 <div class="col-md-3 col-6" markdown="1">
-![Image](spatialbio/assets/images/sponsors/ONI_Black.png)
+![Image](/assets/images/sponsors/ONI_Black.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
-![Image](spatialbio/assets/images/sponsors/WRF.svg)
+![Image](/assets/images/sponsors/WRF.svg)
 </div>
 </div>
 </div>

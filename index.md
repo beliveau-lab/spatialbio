@@ -32,7 +32,9 @@ jumbotron:
 carousel:
   active: https://api.coarchitects.com/wp-content/uploads/2022/08/COJ148_N2145_print.jpg
   images:
-    - src: https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-mass-spectrometry-analysis/protein-quantitation-mass-spectrometry/tandem-mass-tag-systems/jcr:content/MainParsys/image_a963/foregroundimg.img.320.high.png/1678387094960.png
+    - src: /assets/images/general/SB23_Banner.png
+    - src: https://facilities.uw.edu/blog/files/media/drumheller-bagley-hero.jpg
+    - src: https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/8/10119/files/2020/12/Foege_Hall-1241.jpg
 data:
   sections:
     - title: Location
@@ -87,7 +89,7 @@ data:
             content: Scientist III, Allen Institute for Brain Science
         - card:
             title: Kelly Stevens
-            src: http://www.kellystevensscience.com/uploads/2/9/2/3/29233939/stevens-kelly_2.jpg
+            src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # http://www.kellystevensscience.com/uploads/2/9/2/3/29233939/stevens-kelly_2.jpg
             url: http://www.kellystevensscience.com/
             content: Assistant Professor of Bioengineering, UW
     - title: Program
@@ -138,9 +140,9 @@ data:
 - Labeling biomolecules in tissues
 - Machine learning and image analysis
 </div>
-<div class="col"></div>
-<div class="col-md-6 col-12 d-flex align-items-center justify-content-start mr-4 " markdown="1">
-![Image](https://static.wixstatic.com/media/b8abaf_3349e26a82b443038d0cc9e882b1fa7a~mv2.png/v1/fill/w_964,h_227,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b8abaf_3349e26a82b443038d0cc9e882b1fa7a~mv2.png)
+<!-- <div class="col"></div> -->
+<div class="col-md-7 col-12 d-flex align-items-center justify-content-start" markdown="1">
+![Image](/assets/images/general/SB23_Banner.png)
 </div>
 </div>
 

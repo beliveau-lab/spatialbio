@@ -142,7 +142,7 @@ layout: base
                 <div class="hero overlay" style="{{ _header_style }}">
               {%- endif -%}
             {%- endif -%}
-                <div class="hero__content position-absolute z-3">
+                <div class="hero__content position-absolute w-100 m-0 z-3 herofix">
                   {%- if _full_width == false -%}
                     <div class ="main">
                   {%- endif -%}
@@ -161,7 +161,7 @@ layout: base
 
                     <div class="border rounded-3 p-5 mx-auto text-center articlepage">
                       <div class="d-grid gap-2 d-sm-block mb-3 mx-auto regbuttondiv">
-                        <a href="{{ page.jumbotron.registration_link }}" class="btn btn-primary btn-lg h-100 w-100 link-light link-underline link-underline-opacity-0 d-flex align-items-center justify-content-center btn btn-primary btn-lg h-100 w-100 regbutton {{ _registration_enabled }}" target="_blank" rel="noreferrer noopener">
+                        <a href="{{ page.jumbotron.registration_link }}" class="btn btn-primary btn-lg h-100 w-100 link-light link-underline link-underline-opacity-0 d-flex align-items-center justify-content-center regbutton {{ _registration_enabled }}" target="_blank" rel="noreferrer noopener">
                             <h3>
                               Register Now!
                             </h3>

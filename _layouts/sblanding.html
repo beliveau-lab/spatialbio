@@ -75,7 +75,7 @@ height: 80vh
             {%- if child.card -%}
             <div class="col">
               <div class="card text-center h-100 ">
-                <img src="{{ child.card.src }}" class="card-img-top bg-dark-subtle object-fit-contain h-100 mh-100" />
+                <img src="{{ child.card.src }}" class="card-img-top bg-secondary-subtle object-fit-contain h-100 mh-100" />
 
 
                 <div class="card-body">
@@ -109,8 +109,8 @@ height: 80vh
 </div>
 {%- endfor-%}
 <div class="hero hero--dark overlay py-5" style="background: #123">
-  <div class="article__content container px-5 border rounded-3 position-relative articlepage" itemprop="articleBody"
-    id="learnMore">
+  <div class="article__content container px-5 border rounded-3 position-relative aos-init aos-animate articlepage" itemprop="articleBody"
+    id="learnMore" data-aos="fade-up" data-aos-duration="750">
     {{ content }}
   </div>
 </div>

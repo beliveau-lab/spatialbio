@@ -142,7 +142,8 @@ data:
 </div>
 <!-- <div class="col"></div> -->
 <div class="col-md-7 col-12 d-flex align-items-center justify-content-start" markdown="1">
-![Image](/assets/images/general/SB23_Banner.png)
+<!-- ![Image](/assets/images/general/SB23_Banner.png) -->
+![Image](https://static.wixstatic.com/media/b8abaf_3349e26a82b443038d0cc9e882b1fa7a~mv2.png/v1/fill/w_964,h_227,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b8abaf_3349e26a82b443038d0cc9e882b1fa7a~mv2.png)
 </div>
 </div>
 

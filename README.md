@@ -22,7 +22,7 @@ TODO: Lint,  README, SEO, Liquid isn't executable in frontmatter, some links are
 - [/_layouts/sbpage.html](_layouts/sbpage.html) - SpatialBio Layout
 - [/_posts](_posts) - SpatialBio Archive
 - [/_sass/common/components/_modal.scss](_sass/common/components/_modal.scss) - TeXT modal.scss; Commented out to avoid conflicts with Bootstrap
-- [/_sass/custom.css](_sass/custom.scss) - Custom SCSS File
+- [/_sass/custom.scss](_sass/custom.scss) - Custom SCSS File
 - [/assets](assets) - Asset Customization
 - [/_config.yml](_config.yml) - Configuration File
 - [/about.md](about.md) - About Page

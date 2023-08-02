@@ -1,5 +1,20 @@
 /* start custom scss snippet */
 
+// Hero Fix - Manually Fix Scaling for Article Header and Overlay Excerpt
+.herofix {
+
+    & .article__header {
+        padding: 0 3rem;
+        // max-width: 950px;
+    }
+
+    & .overlay__excerpt {
+        padding: 0 3rem;
+        // max-width: 950px;
+    }
+
+}
+
 // Jumbotron and Article "Page Boxes"
 .articlepage {
     padding: 0 3rem;

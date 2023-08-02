@@ -2,7 +2,7 @@
 
 bundle exec jekyll serve  --port 6998 --host 0.0.0.0 --livereload --livereload-port 6997 --force_polling --watch
 
-TODO: LINT, create readme, SEO
+TODO: Lint,  README, SEO, Liquid isn't executable in frontmatter, some links are broken and temporarily replaced with absolute paths in index.md (posts)
 
 ```People's pictures...```
 

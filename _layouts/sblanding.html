@@ -1,0 +1,116 @@
+---
+layout: sbpage
+header: false
+full_width: true
+article_header:
+type: overlay
+# align: center
+height: 80vh
+---
+{%- for _section in page.data.sections -%}
+<div class="modal fade" id="{{ _section.title }}" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="{{ _section.title }}">
+          {{ _section.title }}
+        </h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="container-fluid text-center">
+          {%- if _section.excerpt-%}
+          <p>{{ _section.excerpt }}</p>
+          {%- endif -%}
+          {%- if _section.program -%}
+          <div class="container">
+            <table class="table table-striped table-hover table-bordered table-sm">
+              <thead>
+                <tr>
+                  <th scope="col">
+                    <h4>
+                      Time
+                    </h4>
+                  </th>
+                  <th scope="col">
+                    <h4>
+                      Title
+                    </h4>
+                  </th>
+                  <th scope="col">
+                    <h4>
+                      Location
+                    </h4>
+                  </th>
+                </tr>
+              </thead>
+              <tbody class="table-group-divider">
+                {%- for program in _section.program -%}
+                <tr>
+                  <th scope="row">
+                    <p class="fw-normal">
+                      {{ program.time }}
+                    </p>
+                  </th>
+                  <th scope="row">
+                    <p class="fw-normal">
+                      {{ program.title }}
+                    </p>
+                  </th>
+                  <th scope="row">
+                    <p class="fw-normal">
+                      {{ program.location }}
+                    </p>
+                  </th>
+                </tr>
+                {%- endfor-%}
+              </tbody>
+            </table>
+          </div>
+          {%- endif -%}
+
+          {%- if _section.children -%}
+          <div class="row row-cols-2 row-cols-lg-4 g-4">
+            {%- for child in _section.children -%}
+            {%- if child.card -%}
+            <div class="col">
+              <div class="card text-center h-100 ">
+                <img src="{{ child.card.src }}" class="card-img-top bg-dark-subtle object-fit-contain h-100 mh-100" />
+
+
+                <div class="card-body">
+
+                  <h5 class="card-title">
+                    {{ child.card.title }}
+                  </h5>
+                  <p class="card-text">{{ child.card.content }}</p>
+                  <a href="{{ child.card.url }}"
+                    class="btn btn-primary link-light link-underline link-underline-opacity-0 float-end" target="_blank"
+                    rel="noreferrer noopener">Learn More</a>
+                </div>
+              </div>
+            </div>
+            {%- endif -%}
+            {%- endfor-%}
+          </div>
+          {%- endif -%}
+
+        </div>
+
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+            Close
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endfor-%}
+<div class="hero hero--dark overlay py-5" style="background: #123">
+  <div class="article__content container px-5 border rounded-3 position-relative articlepage" itemprop="articleBody"
+    id="learnMore">
+    {{ content }}
+  </div>
+</div>

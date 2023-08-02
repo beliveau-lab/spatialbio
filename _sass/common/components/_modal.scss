@@ -28,12 +28,12 @@
   @include transition(#{opacity map-get($animation, duration) map-get($animation, timing-function)});
 }
 
-.modal {
-  @include modal();
-}
-.modal--show {
-  @include modal--show();
-}
-.modal--overflow {
-  @include overflow(auto);
-}
+// .modal {
+//   @include modal();
+// }
+// .modal--show {
+//   @include modal--show();
+// }
+// .modal--overflow {
+//   @include overflow(auto);
+// }

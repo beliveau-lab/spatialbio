@@ -45,14 +45,14 @@ data:
       children:
         - card:
             title: Kevin Bishop
-            src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://s3.amazonaws.com/files.digication.com/Ma127cd151856e5f97bd684a1a1f0cd8b.jpg
+            src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # https://s3.amazonaws.com/files.digication.com/Ma127cd151856e5f97bd684a1a1f0cd8b.jpg
             url: https://washington-seattle.digication.com/jonliu/Graduate_students
-            content: Assistant Investigator, Allen Institute for Brain Science
+            content: Ph.D. student, <a href="https://washington-seattle.digication.com/jonliu/Home" target="_blank" rel="noreferrer noopener">Liu Lab</a>, UW Mechanical Engineering
         - card:
             title: Xiaoyin Chen
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/Xiaoyin_Chen_SQUARE-400x400.jpg
             url: https://alleninstitute.org/person/xiaoyin-chen/
-            content: Ph.D. student, <a href="https://washington-seattle.digication.com/jonliu/Home" target="_blank" rel="noreferrer noopener">Liu Lab</a>, UW Mechanical Engineering
+            content: Assistant Investigator, Allen Institute for Brain Science
         - card:
             title: Adam Glaser
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/adam-glaser-web.png

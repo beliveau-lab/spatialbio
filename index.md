@@ -38,38 +38,40 @@ carousel:
 data:
   sections:
     - title: Location
+      subtitle:
       excerpt: <div class="ratio ratio-4x3"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d671.9147319563219!2d-122.31313192402544!3d47.65219439318942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549014ede4bdea51%3A0x5d0ff1cf2aed917f!2sWilliam%20H.%20Foege%20Hall%2C%203720%2015th%20Ave%20NE%2C%20Seattle%2C%20WA%2098105!5e0!3m2!1sen!2sus!4v1690266880096!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
     - title: Speakers
+      subtitle:
       children:
         - card:
             title: Kevin Bishop
-            src: https://s3.amazonaws.com/files.digication.com/Ma127cd151856e5f97bd684a1a1f0cd8b.jpg
+            src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://s3.amazonaws.com/files.digication.com/Ma127cd151856e5f97bd684a1a1f0cd8b.jpg
             url: https://washington-seattle.digication.com/jonliu/Graduate_students
             content: Assistant Investigator, Allen Institute for Brain Science
         - card:
             title: Xiaoyin Chen
-            src: https://alleninstitute.org/wp-content/uploads/2022/12/Xiaoyin_Chen_SQUARE-400x400.jpg
+            src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/Xiaoyin_Chen_SQUARE-400x400.jpg
             url: https://alleninstitute.org/person/xiaoyin-chen/
             content: Ph.D. student, <a href="https://washington-seattle.digication.com/jonliu/Home" target="_blank" rel="noreferrer noopener">Liu Lab</a>, UW Mechanical Engineering
         - card:
             title: Adam Glaser
-            src: https://alleninstitute.org/wp-content/uploads/2022/12/adam-glaser-web.png
+            src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/adam-glaser-web.png
             url: https://alleninstitute.org/person/adam-glaser/
             content: Senior Scientist, Allen Institute for Neural Dynamics
         - card:
             title: Sam A. Golden
-            src: https://images.squarespace-cdn.com/content/v1/5b1b659871069912b3022368/1531934160140-G6MG82DPST16PU81SI1I/SamGolden.jpg
+            src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # https://images.squarespace-cdn.com/content/v1/5b1b659871069912b3022368/1531934160140-G6MG82DPST16PU81SI1I/SamGolden.jpg
             url: https://goldenneurolab.com/
             content: Assistant Professor of Biological Structure, UW
         - card:
             title: Shachi Mittal
-            src: https://shachimittal.com/images/shachi.jpg
+            src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # https://shachimittal.com/images/shachi.jpg
             url: https://shachimittal.com/people.html
             content: Assistant Professor of Chemical Engineering, UW
         - title:
           card:
             title: Eva K. Nichols
-            src: https://static.wixstatic.com/media/b8abaf_0f0d1822d49147459a15bf22b0cd6f51~mv2.jpg/v1/crop/x_28,y_0,w_919,h_918/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image%20from%20iOS%20(3).jpg
+            src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # https://static.wixstatic.com/media/b8abaf_0f0d1822d49147459a15bf22b0cd6f51~mv2.jpg/v1/crop/x_28,y_0,w_919,h_918/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image%20from%20iOS%20(3).jpg
             url: http://beliveau.io/team
             content: Postdoc, <a href="https://www.beliveau.io/" target="_blank" rel="noreferrer noopener">Beliveau</a> & <a href="https://shendure-web.gs.washington.edu/" target="_blank" rel="noreferrer noopener">Shendure</a> Labs, UW Genome Sciences
         - card:
@@ -79,12 +81,12 @@ data:
             content: Postdoc, <a href="https://sites.google.com/a/uw.edu/the-vaughan-group/home" target="_blank" rel="noreferrer noopener">Vaughan</a> Lab, UW Chemistry
         - card:
             title: Robert Serfain
-            src: https://s3.amazonaws.com/files.digication.com/Me5ba384dc66485fd79a298d1d6517395.jpg
+            src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # https://s3.amazonaws.com/files.digication.com/Me5ba384dc66485fd79a298d1d6517395.jpg
             url: https://washington-seattle.digication.com/jonliu/Graduate_students
             content: Ph.D. student, <a href="https://washington-seattle.digication.com/jonliu/Home" target="_blank" rel="noreferrer noopener">Liu Lab</a>, UW Mechanical Engineering
         - card:
             title: Sharmisthaa Sheshamani
-            src: https://alleninstitute.org/wp-content/uploads/2022/12/sharmishtaa_seshamani_web-new.jpg
+            src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/sharmishtaa_seshamani_web-new.jpg
             url: https://alleninstitute.org/person/sharmishtaa-seshamani/
             content: Scientist III, Allen Institute for Brain Science
         - card:
@@ -93,6 +95,7 @@ data:
             url: http://www.kellystevensscience.com/
             content: Assistant Professor of Bioengineering, UW
     - title: Program
+      subtitle: (Preliminary)
       program:
         - title: Welcome, Announcements
           time: 09:00-09:15am
@@ -156,7 +159,7 @@ data:
 - [Shachi Mittal](https://shachimittal.com/people.html) (Assistant Professor of Chemical Engineering, UW)
 - [Eva K. Nichols](http://beliveau.io/team) (Postdoc, [Beliveau](https://www.beliveau.io/) & [Shendure Labs](https://shendure-web.gs.washington.edu/), UW Genome Sciences)
 - [Chetan Poudel](https://www.beliveau.io/) (Postdoc, [Vaughan](https://sites.google.com/a/uw.edu/the-vaughan-group/home) Lab, UW Chemistry)
-- [Robert Serafin](https://washington-seattle.digication.com/jonliu/Graduate_students) (Ph.D. student, [Liu](https://washington-seattle.digication.com/jonliu/Home) Lab, UW Mechanical Engineering)
+- [Robert Serafin](https://washington-seattle.digication.com/jonliu/Graduate_students) (Ph.D. student, [Liu Lab](https://washington-seattle.digication.com/jonliu/Home), UW Mechanical Engineering)
 - [Sharmisthaa Sheshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Scientist III, Allen Institute for Brain Science )
 - [Kelly Stevens](http://www.kellystevensscience.com/) (Assistant Professor of Bioengineering, UW)
 
@@ -174,12 +177,11 @@ data:
 ![Image](/assets/images/sponsors/Alpenglow.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
-![Image](/assets/images/sponsors/Barcode.svg)
+![Image](/assets/images/sponsors/Nanostring.svg)
 </div>
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Nikon.jpg)
 </div>
-
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/ONI_Black.png)
 </div>

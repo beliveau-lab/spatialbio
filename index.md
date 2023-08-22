@@ -177,6 +177,12 @@ data:
 ![Image](/assets/images/sponsors/Alpenglow.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/Leica.svg)
+</div>
+<div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/Miltenyi.svg)
+</div>
+<div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Nanostring.svg)
 </div>
 <div class="col-md-3 col-6" markdown="1">
@@ -184,6 +190,9 @@ data:
 </div>
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/ONI_Black.png)
+</div>
+<div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/Vizgen.svg)
 </div>
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/WRF.svg)

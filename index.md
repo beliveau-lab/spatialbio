@@ -177,7 +177,7 @@ data:
 ![Image](/assets/images/sponsors/Alpenglow.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
-![Image](/assets/images/sponsors/Leica.svg)
+![Image](/assets/images/sponsors/Leica.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Miltenyi.svg)

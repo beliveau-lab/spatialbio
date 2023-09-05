@@ -160,6 +160,7 @@ layout: base
                     {%- endunless -%}
 
                     <div class="border rounded-3 p-5 mx-auto text-center articlepage">
+                    
                       <div class="d-grid gap-2 d-sm-block mb-3 mx-auto regbuttondiv">
                         <a href="{{ page.jumbotron.registration_link }}" class="btn btn-primary btn-lg h-100 w-100 link-light link-underline link-underline-opacity-0 d-flex align-items-center justify-content-center regbutton {{ _registration_enabled }}" target="_blank" rel="noreferrer noopener">
                             <h3>
@@ -170,19 +171,18 @@ layout: base
                       <div class="d-grid gap-2 d-sm-block mx-auto">
                         <a href="#learnMore" class="btn btn-secondary btn-lg link-light link-underline link-underline-opacity-0 d-flex align-items-center justify-content-center mx-auto actionsdiv"><h6>Learn More <i class="fas fa-solid fa-angle-down fa-lg"></i></h6></a>
                       </div>
-                      <hr class="my-4">
+                      <hr class="my-4" />
                         <h6>{{ page.jumbotron.content }}</h6>
 
-                    <div class="container text-center mt-3 actionsdiv">
-                      <div class="row row-cols-2">
-                        {%- for _action in page.jumbotron.actions -%}
-                        <div class="col">
-                          <button type="button" class="btn btn-secondary w-100" data-bs-toggle="modal" data-bs-target="#{{ _action.text }}"><h6>{{ _action.text }}</h6></button>
-
+                      <div class="container text-center mt-3 actionsdiv">
+                        <div class="row row-cols-2">
+                          {%- for _action in page.jumbotron.actions -%}
+                          <div class="col">
+                            <button type="button" class="btn btn-secondary w-100" data-bs-toggle="modal" data-bs-target="#{{ _action.text }}"><h6>{{ _action.text }}</h6></button>
+                          </div>
+                          {%- endfor -%}
                         </div>
-                        {%- endfor -%}
                       </div>
-                    </div>
 
                     </div>
                     {%- endif -%}

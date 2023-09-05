@@ -27,8 +27,8 @@
             <div>
                 {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
                 {%- assign _locale_copyright_dates = __return -%}
-                © {{ site.title }} <!-- {{ _locale_copyright_dates }} -->,
-                Made by <a title="Vincent Chau" href="https://vincentczhou.github.io">{{ site.author.name }}</a>
+                © {{ site.title }}<!-- {{ _locale_copyright_dates }} -->,
+                Made by <a title="{{ site.author.name }}" href="{{ site.author.url }}">{{ site.author.name }}</a>
                 @ the <a title="Beliveau Lab" href="https://www.beliveau.io/">Beliveau Lab</a>
             </div>
             <div>

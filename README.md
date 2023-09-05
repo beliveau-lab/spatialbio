@@ -1,18 +1,19 @@
-# SpatialBio (Forked from [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme))
+# [SpatialBio](https://spatialbioseattle.org) (Forked from [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme))
 
+![SpatialBio Demo](/assets/images/general/README_Banner.png)
+
+```
 bundle exec jekyll serve  --port 6998 --host 0.0.0.0 --livereload --livereload-port 6997 --force_polling --watch
+People's pictures...
+```
 
-TODO: Lint,  README, SEO, Liquid isn't executable in frontmatter, some links are broken and temporarily replaced with absolute paths in index.md (posts)
-
-```People's pictures...```
-
-# Updating
+## Updating
 1. Configure ``title`` and ``description`` in ``_config.yml``
 2. Backup ``index.md`` to ``/_posts`` and rename accordingly
 3. Update the contents of ``index.md``, ``/assets/images/sponsors``
 4. For further customizations, see [Files Modified](#files-modified)
 
-# Files Modified
+## Files Modified
 
 - [/_includes/head/custom.html](_includes/head/custom.html) - Stylesheet Headers (Bootstrap, etc.)
 - [/_includes/head/favicon.html](_includes/head/favicon.html) - Favicon Customization (assets)
@@ -27,3 +28,9 @@ TODO: Lint,  README, SEO, Liquid isn't executable in frontmatter, some links are
 - [/_config.yml](_config.yml) - Configuration File
 - [/about.md](about.md) - About Page
 - [/index.md](index.md) - Current SpatialBio Page
+
+#### Notes
+
+- Liquid isn't executable in frontmatter
+- Some links may be broken dependending on base url (can be fixed with absolute paths or configuring base url in [/_config.yml](_config.yml))
+- Favicon needs to be sized to specification in order to show up properly on Google

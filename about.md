@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-- Created by [{{ site.author.name}}](https://vincentczhou.github.io) @ the [Beliveau Lab](https://www.beliveau.io/)
+- Created by [{{ site.author.name }}]({{ site.author.url }}) @ the [Beliveau Lab](https://www.beliveau.io)

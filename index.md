@@ -197,5 +197,8 @@ data:
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/WRF.svg)
 </div>
+<div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/Zeiss.svg)
+</div>
 </div>
 </div>

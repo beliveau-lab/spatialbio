@@ -160,7 +160,7 @@ data:
 - [Eva K. Nichols](http://beliveau.io/team) (Postdoc, [Beliveau](https://www.beliveau.io/) & [Shendure Labs](https://shendure-web.gs.washington.edu/), UW Genome Sciences)
 - [Chetan Poudel](https://www.beliveau.io/) (Postdoc, [Vaughan](https://sites.google.com/a/uw.edu/the-vaughan-group/home) Lab, UW Chemistry)
 - [Robert Serafin](https://washington-seattle.digication.com/jonliu/Graduate_students) (Ph.D. student, [Liu Lab](https://washington-seattle.digication.com/jonliu/Home), UW Mechanical Engineering)
-- [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Scientist III, Allen Institute for Brain Science )
+- [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science )
 - [Kelly Stevens](http://www.kellystevensscience.com/) (Assistant Professor of Bioengineering, UW)
 
 ### Organizing Committee

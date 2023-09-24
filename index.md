@@ -88,7 +88,7 @@ data:
             title: Sharmishtaa Seshamani
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/sharmishtaa_seshamani_web-new.jpg
             url: https://alleninstitute.org/person/sharmishtaa-seshamani/
-            content: Scientist III, Allen Institute for Brain Science
+            content: Computer Vision Manager, Allen Institute for Brain Science
         - card:
             title: Kelly Stevens
             src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png # http://www.kellystevensscience.com/uploads/2/9/2/3/29233939/stevens-kelly_2.jpg
@@ -160,7 +160,7 @@ data:
 - [Eva K. Nichols](http://beliveau.io/team) (Postdoc, [Beliveau](https://www.beliveau.io/) & [Shendure Labs](https://shendure-web.gs.washington.edu/), UW Genome Sciences)
 - [Chetan Poudel](https://www.beliveau.io/) (Postdoc, [Vaughan](https://sites.google.com/a/uw.edu/the-vaughan-group/home) Lab, UW Chemistry)
 - [Robert Serafin](https://washington-seattle.digication.com/jonliu/Graduate_students) (Ph.D. student, [Liu Lab](https://washington-seattle.digication.com/jonliu/Home), UW Mechanical Engineering)
-- [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science )
+- [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science)
 - [Kelly Stevens](http://www.kellystevensscience.com/) (Assistant Professor of Bioengineering, UW)
 
 ### Organizing Committee

@@ -18,8 +18,8 @@ article_header:
   height: 1000px
   background_color: "#123"
   # background_image:
-    # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    # src: TeXt-responsive.png
+  # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+  # src: TeXt-responsive.png
 
 jumbotron:
   registration_active: true
@@ -85,7 +85,7 @@ data:
             url: https://washington-seattle.digication.com/jonliu/Graduate_students
             content: Ph.D. student, <a href="https://washington-seattle.digication.com/jonliu/Home" target="_blank" rel="noreferrer noopener">Liu Lab</a>, UW Mechanical Engineering
         - card:
-            title: Sharmisthaa Sheshamani
+            title: Sharmishtaa Seshamani
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg # https://alleninstitute.org/wp-content/uploads/2022/12/sharmishtaa_seshamani_web-new.jpg
             url: https://alleninstitute.org/person/sharmishtaa-seshamani/
             content: Scientist III, Allen Institute for Brain Science

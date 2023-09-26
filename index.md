@@ -106,7 +106,7 @@ data:
         - title: Introduction by <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Jonathan T.C. Liu</a>, University of Washington
           time: 09:15-09:20am
           location: Foege Auditorium
-        - title: '<a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Adam Glaser</a>, Allen Institue. "How to see the big and the small: imaging centimeter scale tissues with nanoscale resolution"'
+        - title: '<a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Adam Glaser</a>, Allen Institute. "How to see the big and the small: imaging centimeter scale tissues with nanoscale resolution"'
           time: 09:20-09:50am
           location: Foege Auditorium
         - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Kevin Bishop</a>, University of Washington. "Open-top light-sheet microscopy instrumentation for 3D pathology"

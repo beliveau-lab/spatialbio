@@ -22,7 +22,7 @@ article_header:
   # src: TeXt-responsive.png
 
 jumbotron:
-  registration_active: true
+  registration_active: false
   registration_link: https://docs.google.com/forms/d/e/1FAIpQLSfEQ4LPQT5-lrlgeNxaO_1OA2Pjxc6vXeyw94CFNRxfSIlp9A/viewform
   content: >
     Registration Deadline: 09.18.2023<br>Poster Abstract Submission Deadline: 09.15.2023

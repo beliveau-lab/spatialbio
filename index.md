@@ -22,10 +22,10 @@ article_header:
   # src: TeXt-responsive.png
 
 jumbotron:
-  registration_active: false
+  registration_active: true
   registration_link: https://docs.google.com/forms/d/182MwzoIk_RCJTZRCTxq8SW4OFVjS3FI1iZYHOKjjPs4
   content: >
-    Registration Deadline: 09.12.2024<br><a href="https://docs.google.com/forms/d/17jxd3_gJlVtQc7jSV-Ru0RUm6spuXVPDlcpfmqGksw8" target="_blank" rel="noreferrer noopener">Poster Abstract Submission</a> Deadline: 09.12.2024
+    Registration Deadline: 09.12.2024<br><u><a href="https://docs.google.com/forms/d/17jxd3_gJlVtQc7jSV-Ru0RUm6spuXVPDlcpfmqGksw8" target="_blank" rel="noreferrer noopener">Poster Abstract Submission</a></u> Deadline: 09.12.2024
   actions:
     - text: Speakers
     - text: Program

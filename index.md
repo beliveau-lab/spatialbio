@@ -59,6 +59,11 @@ data:
             url: https://hamazaki-lab.com
             content: Assistant Professor of Obstetrics & Gynecology, UW
         - card:
+            title: A. Murat Maga, Ph.D.
+            src: https://www.seattlechildrens.org/icon.svg
+            url: https://www.seattlechildrens.org/directory/a-murat-maga/
+            content: Assistant Professor of Pediatrics, UW & Seattle Children's Research Institute
+        - card:
             title: R. Clay Reid, M.D., Ph.D.
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg
             url: https://alleninstitute.org/person/r-clay-reid/
@@ -78,6 +83,11 @@ data:
             src: https://www.seattlechildrens.org/icon.svg
             url: https://theshihlab.com/team/stefan-stamenkovic-phd/
             content: Postdoc, <a href="https://theshihlab.com/" target="_blank" rel="noreferrer noopener">Shih Lab</a>, Seattle Children's Research Institute
+        - card:
+            title: Matheus Viana, Ph.D.
+            src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg
+            url: https://alleninstitute.org/person/matheus-viana/
+            content: Senior Scientist, Allen Institute for Cell Science
         - card:
             title: Sheng Wang, Ph.D.
             src: https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex.png
@@ -123,10 +133,12 @@ data:
 - [Philip Abitua, Ph.D.](https://abitua.org) (Assistant Professor of Genome Sciences, UW)
 - [Adam Glaser, Ph.D.](https://alleninstitute.org/person/adam-glaser/) (Senior Scientist, Allen Institute for Neural Dynamics)
 - [Nobuhiko Hamazaki, Ph.D.](https://hamazaki-lab.com) (Assistant Professor of Obstetrics & Gynecology, UW)
+- [A. Murat Maga, Ph.D.](https://www.seattlechildrens.org/directory/a-murat-maga/) (Assistant Professor of Pediatrics, UW & Seattle Children's Research Institute)
 - [R. Clay Reid, M.D., Ph.D.](https://alleninstitute.org/person/r-clay-reid/) (Senior Scientist, Allen Institute for Brain Science)
 - [Stephanie Seeman, Ph.D.](https://alleninstitute.org/person/stephanie-seeman/) (Scientist III, Allen Institute for Brain Science)
 - [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science)
 - [Stefan Stamenkovic, Ph.D.](https://theshihlab.com/team/stefan-stamenkovic-phd/) (Postdoc, [Shih Lab](https://theshihlab.com/), Seattle Children's Research Institute)
+- [Matheus Viana, Ph.D.](https://alleninstitute.org/person/matheus-viana/) (Senior Scientist, Allen Institute for Cell Science)
 - [Sheng Wang, Ph.D.](https://homes.cs.washington.edu/~swang/) (Assistant Professor of Computer Science, UW)
 - [Min Yang, Ph.D.](https://yang-lab-uw.com/) (Assistant Professor of Obstetrics & Gynecology, UW)
 

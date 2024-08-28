@@ -67,7 +67,7 @@ data:
             title: R. Clay Reid, M.D., Ph.D.
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg
             url: https://alleninstitute.org/person/r-clay-reid/
-            content: Senior Scientist, Allen Institute for Brain Science
+            content: Senior Investigator, Allen Institute for Brain Science
         - card:
             title: Stephanie Seeman, Ph.D.
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg
@@ -134,7 +134,7 @@ data:
 - [Adam Glaser, Ph.D.](https://alleninstitute.org/person/adam-glaser/) (Senior Scientist, Allen Institute for Neural Dynamics)
 - [Nobuhiko Hamazaki, Ph.D.](https://hamazaki-lab.com) (Assistant Professor of Obstetrics & Gynecology, UW)
 - [A. Murat Maga, Ph.D.](https://www.seattlechildrens.org/directory/a-murat-maga/) (Assistant Professor of Pediatrics, UW & Seattle Children's Research Institute)
-- [R. Clay Reid, M.D., Ph.D.](https://alleninstitute.org/person/r-clay-reid/) (Senior Scientist, Allen Institute for Brain Science)
+- [R. Clay Reid, M.D., Ph.D.](https://alleninstitute.org/person/r-clay-reid/) (Senior Investigator, Allen Institute for Brain Science)
 - [Stephanie Seeman, Ph.D.](https://alleninstitute.org/person/stephanie-seeman/) (Scientist III, Allen Institute for Brain Science)
 - [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science)
 - [Stefan Stamenkovic, Ph.D.](https://theshihlab.com/team/stefan-stamenkovic-phd/) (Postdoc, [Shih Lab](https://theshihlab.com/), Seattle Children's Research Institute)

@@ -79,6 +79,11 @@ data:
             url: https://alleninstitute.org/person/sharmishtaa-seshamani/
             content: Computer Vision Manager, Allen Institute for Brain Science
         - card:
+            title: Sanjay Srivatsan, Ph.D.
+            src: https://www.fredhutch.org/etc.clientlibs/common/clientlibs/resources/svg/logo-color-no-dots.svg
+            url: https://www.srivatsan-lab.com
+            content: Assistant Professor of Basic Sciences, Fred Hutch
+        - card:
             title: Stefan Stamenkovic, Ph.D.
             src: https://www.seattlechildrens.org/icon.svg
             url: https://theshihlab.com/team/stefan-stamenkovic-phd/
@@ -136,7 +141,8 @@ data:
 - [A. Murat Maga, Ph.D.](https://www.seattlechildrens.org/directory/a-murat-maga/) (Assistant Professor of Pediatrics, UW & Seattle Children's Research Institute)
 - [R. Clay Reid, M.D., Ph.D.](https://alleninstitute.org/person/r-clay-reid/) (Senior Investigator, Allen Institute for Brain Science)
 - [Stephanie Seeman, Ph.D.](https://alleninstitute.org/person/stephanie-seeman/) (Scientist III, Allen Institute for Brain Science)
-- [Sharmishtaa Seshamani](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science)
+- [Sharmishtaa Seshamani, Ph.D.](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science)
+- [Sanjay Srivatsan, Ph.D.](https://www.srivatsan-lab.com) (Assistant Professor of Basic Sciences, Fred Hutch)
 - [Stefan Stamenkovic, Ph.D.](https://theshihlab.com/team/stefan-stamenkovic-phd/) (Postdoc, [Shih Lab](https://theshihlab.com/), Seattle Children's Research Institute)
 - [Matheus Viana, Ph.D.](https://alleninstitute.org/person/matheus-viana/) (Senior Scientist, Allen Institute for Cell Science)
 - [Sheng Wang, Ph.D.](https://homes.cs.washington.edu/~swang/) (Assistant Professor of Computer Science, UW)
@@ -148,27 +154,33 @@ data:
 - [Adam Glaser](https://alleninstitute.org/person/adam-glaser/) (Allen Institute for Neural Dynamics)
 - [Brian Long](https://alleninstitute.org/person/brian-long/) (Allen Institute for Brain Science)
 
-<!-- ### Sponsors
+### Sponsors
 
 <div class="container text-center mb-3">
 <div class="row align-items-center">
 <div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/10x_Vertical.png)
+</div>
+<div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Alpenglow.png)
+</div>
+<div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/Complete_Genomics.png)
+</div>
+<div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/Curio.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Leica.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
+![Image](/assets/images/sponsors/LCT.png)
+</div>
+<div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Miltenyi.svg)
 </div>
 <div class="col-md-3 col-6" markdown="1">
-![Image](/assets/images/sponsors/Nanostring.svg)
-</div>
-<div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Nikon.jpg)
-</div>
-<div class="col-md-3 col-6" markdown="1">
-![Image](/assets/images/sponsors/ONI_Black.png)
 </div>
 <div class="col-md-3 col-6" markdown="1">
 ![Image](/assets/images/sponsors/Vizgen.svg)
@@ -180,4 +192,4 @@ data:
 ![Image](/assets/images/sponsors/Zeiss.svg)
 </div>
 </div>
-</div> -->
+</div>

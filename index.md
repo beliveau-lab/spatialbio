@@ -64,10 +64,10 @@ data:
             url: https://www.seattlechildrens.org/directory/a-murat-maga/
             content: Assistant Professor of Pediatrics, UW & Seattle Children's Research Institute
         - card:
-            title: R. Clay Reid, M.D., Ph.D.
+            title: Kevin Takasaki, Ph.D.
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg
-            url: https://alleninstitute.org/person/r-clay-reid/
-            content: Senior Investigator, Allen Institute for Brain Science
+            url: https://alleninstitute.org/person/kevin-takasaki/
+            content: Scientist III, Allen Institute for Brain Science
         - card:
             title: Stephanie Seeman, Ph.D.
             src: https://alleninstitute.org/wp-content/themes/gmmb-allen/images/allen-logo.svg
@@ -106,9 +106,78 @@ data:
     - title: Program
       subtitle:
       program:
-        - title: Coming Soon!
-          time: Coming Soon!
-          location: Coming Soon!
+        - title: Welcome from the organizers, announcements
+          time: 09:00-09:10am
+          location: <i>Foege Auditorium</i>
+        - title: >
+            <b><i>Talk Session 1. Chair: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Adam Glaser</a></i></b>
+          time: <b>09:10-10:45am</b>
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Sheng Wang</a>, <i>Generative AI for whole-slide pathology imaging</i>.
+          time: 09:10-09:30am
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Stefan Stamenkovic</a>, <i>Optical interrogation of changes in cerebrovascular structure and function in normal aging and Alzheimer’s disease</i>.
+          time: 09:30-09:50am
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Philip Abitua</a>, <i>Illuminating Annual Killifish Development with Light Sheet Microscopy</i>.
+          time: 09:50-10:10am
+          location: <i>Foege Auditorium</i>
+        - title: >
+            <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Murat Maga</a>, <i>3D Slicer, SlicerMorph, and their friends:  An open ecosystem for 3D image analytics and phenotype discovery</i>.
+          time: 10:10-10:30am
+          location: <i>Foege Auditorium</i>
+        - title: <b>Leigh Harris</b>, Allen Institute for Cell Science, <i>Talk selected from abstracts</i>.
+          time: 10:30-10:45am
+          location: <i>Foege Auditorium</i>
+        - title: Coffee Break
+          time: 10:45-11:15am
+          location: <i>Vista Café</i>
+        - title: >
+            <b><i>Talk Session 2. Chair: <a href="https://www.gs.washington.edu/faculty/beliveau.htm" target="_blank" rel="noreferrer noopener">Brian Beliveau</a></i></b>
+          time: <b>11:15-12:35pm</b>
+          location: <i>Foege Auditorium</i>
+        - title: >
+            <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Min Yang</a>, <i>Error Prone Human Embryogenesis: The Cell Fate and Tolerance of Chromosomal Abnormality</i>.
+          time: 11:15-11:35am
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Nobuhiko Hamazaki</a>, <i>Reconstitution of mammalian life cycle in vitro</i>.
+          time: 11:35-11:55am
+          location: <i>Foege Auditorium</i>
+        - title: >
+            <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Adam Glaser</a>, <i>Developing new microscope technologies: from concept, to prototype, to "product"</i>.
+          time: 11:55-12:15pm
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Stephanie Seeman</a>, <i>Building a Spatial Atlas of Human and Non-Human Primate Brain</i>.
+          time: 12:15-12:35pm
+          location: <i>Foege Auditorium</i>
+        - title: Lunch
+          time: 12:35-01:50pm
+          location: <i>Vista Café</i>
+        - title: >
+            <b><i>Talk Session 3. Chair: <a href="https://alleninstitute.org/person/brian-long/" target="_blank" rel="noreferrer noopener">Brian Long</a></i></b>
+          time: <b>01:50-03:25pm</b>
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Kevin Takasaki</a>, <i>Lightsheet microscopy for connectomics across spatial scales</i>.
+          time: 01:50-02:10pm
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Mattheus Viana</a>, <i>Quantifying intracellular organization in human iPS cells using appropriate representations</i>.
+          time: 02:10-02:30pm
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Sharmishtaa Seshamani</a>, <i>Looking for the Neuron in the Image Stack</i>.
+          time: 02:30-02:50pm
+          location: <i>Foege Auditorium</i>
+        - title: <a href="#" data-bs-toggle="modal" data-bs-target="#Speakers">Sanjay Srivatsan</a>, <i>Optics-free reconstruction of 2D images via DNA</i>.
+          time: 02:50-03:10pm
+          location: <i>Foege Auditorium</i>
+        - title: <b>Sriram Pendyala</b>, University of Washington, <i>Talk selected from abstracts</i>.
+          time: 03:10-03:25pm
+          location: <i>Foege Auditorium</i>
+        - title: Closing remarks from the organizers
+          time: 03:25-03:30pm
+          location: <i>Foege Auditorium</i>
+        - title: Poster session with refreshments
+          time: 03:30-05:30pm
+          location: <i>Vista Café</i>
 ---
 
 # Overview
@@ -139,7 +208,7 @@ data:
 - [Adam Glaser, Ph.D.](https://alleninstitute.org/person/adam-glaser/) (Senior Scientist, Allen Institute for Neural Dynamics)
 - [Nobuhiko Hamazaki, Ph.D.](https://hamazaki-lab.com) (Assistant Professor of Obstetrics & Gynecology, UW)
 - [A. Murat Maga, Ph.D.](https://www.seattlechildrens.org/directory/a-murat-maga/) (Assistant Professor of Pediatrics, UW & Seattle Children's Research Institute)
-- [R. Clay Reid, M.D., Ph.D.](https://alleninstitute.org/person/r-clay-reid/) (Senior Investigator, Allen Institute for Brain Science)
+- [Kevin Takasaki, Ph.D.](https://alleninstitute.org/person/kevin-takasaki/) (Scientist III, Allen Institute for Brain Science)
 - [Stephanie Seeman, Ph.D.](https://alleninstitute.org/person/stephanie-seeman/) (Scientist III, Allen Institute for Brain Science)
 - [Sharmishtaa Seshamani, Ph.D.](https://alleninstitute.org/person/sharmishtaa-seshamani/) (Computer Vision Manager, Allen Institute for Brain Science)
 - [Sanjay Srivatsan, Ph.D.](https://www.srivatsan-lab.com) (Assistant Professor of Basic Sciences, Fred Hutch)
